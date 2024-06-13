@@ -1,7 +1,5 @@
 # Hi, I'm Piyush! 🦇
 
-![The Real Mask](https://media.tenor.com/WSTXny1zY-IAAAAM/the-batman-robert-pattinson.gif)
-
 ## About Me
 
 - 🌟 Cool, exploring, and always prepared for the next adventure.
@@ -27,9 +25,7 @@
 - 🚀 Always looking to improve and learn new skills.
 - 🧩 Enjoy solving complex problems and puzzles.
 - 📚 Avid reader of tech blogs and comics (guess which ones?).
-- 💻 Open-source enthusiast and contributor.
 - 🎨 An artist with a knack for digital design.
-- 🌐 Passionate about creating efficient and scalable web applications.
 
 ## Fun Facts
 
@@ -42,5 +38,3 @@
 > “It's not who I am underneath, but what I do that defines me.” - Batman
 
 Feel free to reach out if you want to collaborate, discuss tech, or just share some Batman trivia!
-
-![Batman](https://media.tenor.com/1Xy0mZ4YDBQAAAAC/batman-bruce-wayne.gif)

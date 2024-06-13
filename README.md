@@ -1,6 +1,6 @@
 # Hi, I'm Piyush! 🦇
 
-<img src="https://media.tenor.com/WSTXny1zY-IAAAAM/the-batman-robert-pattinson.gif" alt="The Real Mask" width="500"/>
+![The Real Mask](https://media.tenor.com/WSTXny1zY-IAAAAM/the-batman-robert-pattinson.gif)
 
 ## About Me
 
@@ -43,4 +43,4 @@
 
 Feel free to reach out if you want to collaborate, discuss tech, or just share some Batman trivia!
 
-<img src="https://media.tenor.com/1Xy0mZ4YDBQAAAAC/batman-bruce-wayne.gif" alt="Batman" width="500"/>
+![Batman](https://media.tenor.com/1Xy0mZ4YDBQAAAAC/batman-bruce-wayne.gif)

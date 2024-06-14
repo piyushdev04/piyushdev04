@@ -15,17 +15,11 @@
   - HTML & CSS 🎨
   - MongoDB 🍃
 
-## Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/piyush-dev04)
-- 🐦 [Twitter](https://twitter.com/Piyush_dev04)
-
 ## More About Me
 
 - 🚀 Always looking to improve and learn new skills.
 - 🧩 Enjoy solving complex problems and puzzles.
-- 📚 Avid reader of tech blogs and comics (guess which ones?).
-- 🎨 An artist with a knack for digital design.
+- 📚 Avid reader of tech blogs.
 
 ## Fun Facts
 

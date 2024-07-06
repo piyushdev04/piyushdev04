@@ -1,31 +1,26 @@
-# Hi, I'm Piyush! 🦇
+# Hi, I'm Piyush!
 
 ## About Me
 
-- 🌟 Cool, exploring, and always prepared for the next adventure.
-- 🧠 With great code comes great responsibility (wait, wrong hero?).
 - 🦇 By day, I'm a mild-mannered developer, by night... I'm Batman. 
 
 ## Skills
 
-- 🦾 **Languages & Frameworks:** 
-  - Golang 🦇
-  - JavaScript 🌐
-  - Java ☕
-  - HTML & CSS 🎨
-  - MongoDB 🍃
+-  **Languages & (Frameworks & Libraries):** 
+  - Golang
+  - gRPC
+  - Gorilla Mux
 
-## More About Me
+- **API Development:**
+  - Building Basic APIs
+  - Restful APIs
+  - Microservices
 
-- 🚀 Always looking to improve and learn new skills.
-- 🧩 Enjoy solving complex problems and puzzles.
-- 📚 Avid reader of tech blogs.
-
+- **Concepts**
+  - DSA(Golang)
 ## Fun Facts
 
 - 🦇 I'm secretly Batman. Oops, did I say that out loud?
-- 🦸‍♂️ If coding was a superpower, I'd be the one saving Gotham.
-- 🖥️ My Batcave is equipped with the latest tech and gadgets (mostly IDEs and text editors).
 
 ---
 

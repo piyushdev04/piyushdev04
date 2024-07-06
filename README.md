@@ -7,9 +7,9 @@
 ## Skills
 
 -  **Languages & (Frameworks & Libraries):** 
-  - Golang
-  - gRPC
-  - Gorilla Mux
+   - Golang
+   - gRPC
+   - Gorilla Mux
 
 - **API Development:**
   - Building Basic APIs

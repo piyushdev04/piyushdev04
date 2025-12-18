@@ -1,4 +1,4 @@
 # Hi, I'm BATMAN!🥷🏻
 
 Learning math, writing code.
-![](https://komarev.com/ghpvc/?piyushdev04&color=green)
+![](https://komarev.com/ghpvc/?piyushdev04)
